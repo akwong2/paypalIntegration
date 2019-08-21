@@ -1,3 +1,11 @@
 .Checkout {
   text-align: center;
 }
+
+.Success {
+  color: green;
+}
+
+.Cancel {
+  color: red;
+}
