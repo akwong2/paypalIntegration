@@ -2,8 +2,8 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const paypal = require("paypal-rest-sdk");
 
-const clientId = "AdFoz1krpl7fjUDgVOZmvPre3rRvEtz6TSFg7okuwrvAWxoOpaaf0mEtrEg2CWf4a5-rsXyWMWeKZa3E";
-const secret = "EE2lQL92U5leuLc_XWNofnsTtEYB65zdy4vhXcaKaJcCspiZBvRVye4kK7x76vcyIO4C8lVZk5nz6oNI";
+const clientId = "AUC5iD4JH3n2AdxNXG4hhttW4-7EsobiMal1VH94o9_TmyBOyXRB-tP5UG_3HMhONjXPo_xCDYtBC6P1";
+const secret = "EJdcaRzu4kr5A5p17ZKVl434U_RCB0TYVd7-jZhctNMW3wsSfieDYr7jDju76i0WMMfvJ0j7ltXEjXwU";
 
 paypal.configure({
   'mode': 'sandbox', //sandbox or live
