@@ -1,5 +1,12 @@
 # Paypal Integration
 
+### How to run:
+
+```bash
+npm run fresh
+```
+Runs server and react concurrently
+
 ### Structure: 
 
 - paypalintegration
@@ -12,10 +19,4 @@
   - server.js
   - package.json
 
-### How to run:
-
-```bash
-npm run fresh
-```
-Runs server and react concurrently
   
