@@ -15,7 +15,7 @@
 ### How to run:
 
 ```bash
-npm run dev
+npm i && npm run dev
 ```
 Runs server and react concurrently
   
