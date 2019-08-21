@@ -38,6 +38,7 @@ class Checkout extends Component {
         <h2>Checkout</h2>
         {message}
         <form onSubmit={this.submitHandler}>
+          Total:
           <input 
             type="number"
             id="total"
