@@ -1,6 +1,6 @@
 # Paypal Integration
 
-Structure: 
+### Structure: 
 
 - paypalintegration
   - client (react app)
@@ -11,3 +11,11 @@ Structure:
     - index.js
   - server.js
   - package.json
+
+### How to run:
+
+```bash
+npm run dev
+```
+Runs server and react concurrently
+  
